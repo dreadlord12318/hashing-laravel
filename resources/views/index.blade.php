@@ -145,8 +145,6 @@
                 Submit
               </button>
             </div>
-   <p>{{ $hashed }}</p>
-
           </form>
         </div>
       </div>
